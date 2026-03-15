@@ -14,3 +14,10 @@ The project focuses on improving frontend development skills and UI layout desig
 ✔ Product category boxes
 ✔ Responsive Flexbox layout
 ✔ Footer with multiple information sections
+
+🧰 Technologies Used
+HTML5
+CSS3
+Font Awesome Icons
+Flexbox Layout
+
