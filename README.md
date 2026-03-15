@@ -21,3 +21,21 @@ CSS3
 Font Awesome Icons
 Flexbox Layout
 
+📂 Project Structure
+amazon-clone
+│
+├── index.html
+├── project.css
+│
+├── images
+│   ├── amazon.png
+│   ├── amazon1.png
+│   ├── hero.jpg
+│   ├── box1.jpg
+│   ├── box2.jpg
+│   ├── box3.jpg
+│   ├── box4.jpg
+│   ├── box5.jpg
+│   ├── box6.jpg
+│   ├── box7.jpg
+│   └── box8.jpg
