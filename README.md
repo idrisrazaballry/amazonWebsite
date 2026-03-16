@@ -95,3 +95,16 @@ cd amazon-clone
 Run the project:
 Open amazon.html in your browser
 
+🎯 Learning Outcomes
+
+This project helped practice:
+
+HTML page structure
+
+CSS styling
+
+Flexbox layout system
+
+UI design replication
+
+Website component structuring
