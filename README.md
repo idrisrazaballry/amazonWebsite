@@ -105,13 +105,8 @@ Website component structuring
 
 📌 Future Improvements
 Possible enhancements include:
-
 Adding JavaScript functionality
-
 Implementing responsive design for mobile devices
-
 Adding product sliders
-
 Implementing login and cart functionality
-
 Connecting to backend APIs
