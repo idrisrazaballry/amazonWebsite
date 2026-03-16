@@ -96,10 +96,22 @@ Run the project:
 Open amazon.html in your browser
 
 🎯 Learning Outcomes
-
 This project helped practice:
 HTML page structure
 CSS styling
 Flexbox layout system
 UI design replication
 Website component structuring
+
+📌 Future Improvements
+Possible enhancements include:
+
+Adding JavaScript functionality
+
+Implementing responsive design for mobile devices
+
+Adding product sliders
+
+Implementing login and cart functionality
+
+Connecting to backend APIs
