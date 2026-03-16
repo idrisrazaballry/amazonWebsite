@@ -93,4 +93,5 @@ git clone https://github.com/yourusername/amazon-clone.git
 Navigate to the project folder:
 cd amazon-clone
 Run the project:
-Open index.html in your browser
+Open amazon.html in your browser
+
