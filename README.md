@@ -86,3 +86,17 @@ Make Money with Us
 Amazon Payment Products
 Let Us Help You
 Amazon Logo
+
+⚙️ Installation & Usage
+
+Clone the repository:
+
+git clone https://github.com/yourusername/amazon-clone.git
+
+Navigate to the project folder:
+
+cd amazon-clone
+
+Run the project:
+
+Open index.html in your browser
