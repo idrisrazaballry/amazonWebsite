@@ -103,7 +103,7 @@ Flexbox layout system
 UI design replication
 Website component structuring
 
-📌 Future Improvements
+Future Improvements
 Possible enhancements include:
 Adding JavaScript functionality
 Implementing responsive design for mobile devices
