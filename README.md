@@ -42,7 +42,7 @@ amazon-clone
 
 🧩 Key Components
 
-1️⃣ Navigation Bar
+1️ Navigation Bar
 Includes:
 Amazon Logo
 Delivery location
@@ -52,17 +52,17 @@ Orders section
 Cart icon
 Built using Flexbox for alignment and spacing.
 
-2️⃣ Search Section
+2️ Search Section
 Includes:
 Dropdown for product categories
 Search input field
 Search icon
 Hover effect adds an orange border similar to Amazon UI.
 
-3️⃣ Hero Section
+3️ Hero Section
 Displays a large banner image with a message directing users to Amazon India.
 
-4️⃣ Product Section
+4️ Product Section
 The product section shows multiple shopping categories such as:
 Toys
 Gaming
@@ -76,7 +76,7 @@ Product title
 Product image
 “Shop now” link
 
-5️⃣ Footer
+5️ Footer
 The footer contains four main sections:
 Back to Top
 Allows users to quickly scroll to the top.
