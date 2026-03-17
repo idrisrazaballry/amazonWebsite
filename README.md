@@ -95,7 +95,7 @@ cd amazon-clone
 Run the project:
 Open amazon.html in your browser
 
-🎯 Learning Outcomes
+ Learning Outcomes
 This project helped practice:
 HTML page structure
 CSS styling
